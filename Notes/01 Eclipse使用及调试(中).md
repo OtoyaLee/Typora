@@ -4,7 +4,7 @@
 
 ### 下载
 
-[Eclipse]: eclipse.org
+[Eclipse](eclipse.org)
 
 ![image-20210909194258960](C:\Users\OtoyaLee\AppData\Roaming\Typora\typora-user-images\image-20210909194258960.png)
 
@@ -12,7 +12,7 @@
 
 ### 安装配置
 
-[Workspace]: .\eclipse-workspace
+[Workspace](.\eclipse-workspace)
 
 可使用相对路径
 
