@@ -6,7 +6,6 @@
 
 [Eclipse](eclipse.org)
 
-![image-20210909194258960](C:\Users\OtoyaLee\AppData\Roaming\Typora\typora-user-images\image-20210909194258960.png)
 
 国内清华镜像支持，快人亿步
 
